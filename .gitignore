@@ -1,0 +1,18 @@
+# Python & IDE
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+.env
+
+# Datasets (keep out of Git to avoid large repo size)
+#data/
+#assignment2_edge_compression/data/
+*.zip
+*.tar.gz
+
+# Large Model Weights (uncomment *.pt if you don't want to push .pt files)
+# *.pt
+*.pth
+*.onnx
