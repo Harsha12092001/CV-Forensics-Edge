@@ -6,6 +6,8 @@ __pycache__/
 .vscode/
 .env
 
+#python test cache
+*task-1_inspection.py
 # Datasets (keep out of Git to avoid large repo size)
 #data/
 #assignment2_edge_compression/data/
