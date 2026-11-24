@@ -1,0 +1,6 @@
+filename,species,ground_truth_bird,ground_truth_background,predicted_class,confidence,prob_landbird,prob_waterbird,correct
+Cape_May_Warbler_0048_162915.jpg,Cape May Warbler,landbird,land,landbird,1.0,1.0,0.0,True
+Common_Tern_0067_149540.jpg,Common Tern,waterbird,water,waterbird,1.0,0.0,1.0,True
+Slaty_Backed_Gull_0079_796020.jpg,Slaty-backed Gull,waterbird,land,landbird,0.9564,0.9564,0.0436,False
+Sooty_Albatross_0036_796387.jpg,Sooty Albatross,waterbird,land,landbird,0.9536,0.9536,0.0464,False
+White_Pelican_0076_96427.jpg,White Pelican,waterbird,water,waterbird,1.0,0.0,1.0,True
